@@ -1,0 +1,29 @@
+.cta-btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background: #232f3e;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.cta-btn:hover {
+  background: #37475a;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+/* Contact Info */
+.contact-info {
+  margin-top: 20px;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.8;
+}
+.contact-info svg {
+  color: #232f3e;
+  margin-right: 8px;
+}
